@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "photo": "https://sm.ign.com/t/ign_za/gallery/a/assassins-/assassins-creed-valhalla-box-art-logos_1jc8.1080.jpg",
+            "name": "Assassin's Creed Valhalla - Ultimate Edition",
+            "price": 99.99
+        },
+        {
+            "id": 2,
+            "photo": "https://media-rockstargames-com.akamaized.net/rockstargames-newsite/img/global/games/fob/640/reddeadredemption2.jpg",
+            "name": "Red Dead Redemption 2",
+            "price": 59.99
+        },
+        {
+            "id": 3,
+            "photo": "https://upload.wikimedia.org/wikipedia/pt/8/80/Grand_Theft_Auto_V_capa.png",
+            "name": "Grand Theft Auto V",
+            "price": 29.99
+        },
+        {
+            "id": 4,
+            "photo": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQB5q57edt_gODztyy4yjLJ39txQoTjVOHBpCEiMLSHMt-Bv6-wdVB34q4uLDoriKWjGTIGsi4pIJ-ZEMJADm5tRUi78cDD&usqp=CAE",
+            "name": "Biomutant",
+            "price": 59.99
+        },
+        {
+            "id": 5,
+            "photo": "https://cdn-products.eneba.com/resized-products/kMR0qgzjyB9ddcWKUYotD_7tTZkReM9AZT8h2_c7FI4_350x200_1x-0.jpeg",
+            "name": "Humankind - Deluxe Edition",
+            "price": 99.99
+        },
+        {
+            "id": 6,
+            "photo": "https://cdn-products.eneba.com/resized-products/5JzUnzfcLd7T0_XHcaam5ry7LSjd4NamuBdAARtpLiA_350x200_3x-0.jpeg",
+            "name": "It Takes Two",
+            "price": 109.99
+        },
+        {
+            "id": 7,
+            "photo": "https://images-na.ssl-images-amazon.com/images/I/911GAl+yrGL.jpg",
+            "name": "Halo Infinite",
+            "price": 89.99
+        }
+    ]
+}
