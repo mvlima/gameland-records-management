@@ -13,4 +13,4 @@ Chegou a hora de mais uma atividade prática - UHUUUL
 - Dados no localstorage
 - Código fonte no github com o arquivo README detalhando as funcionalidades da programação
 
-# Acesse a [LANDING PAGE](https://gameland.netlify.app)
+# Acesse o [Site](https://gamelandstore.netlify.app)
